@@ -1,10 +1,6 @@
 # simple-blog-next
 
-This project was generated with [superplate](https://github.com/pankod/superplate).
-
-## Getting Started
-
-superplate is a Next.js all-in-one project generator. Create your project with the tools you need without spending hours on setting them up.
+###### Todo
 
 Every plugin comes with an example to give you a brief knowledge about their usage.
 
@@ -40,13 +36,15 @@ To learn more about **superplate**, please check out the [Documentation](https:/
 
 ### **Styled Components**
 
-Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components.
+Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you
+to write actual CSS code to style your components.
 
 [Go To Documentation](https://styled-components.com/docs)
 
 ### **ESLint**
 
-A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
+A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code
+quality with ease.
 
 [Go To Documentation](https://eslint.org/docs/user-guide/getting-started)
 
@@ -64,7 +62,8 @@ The concept of lint-staged is to run configured linter (or other) tasks on files
 
 ### **Github Actions**
 
-GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub.
+GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and
+deploy your code right from GitHub.
 
 [Go To Documentation](https://docs.github.com/en/actions)
 
